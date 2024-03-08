@@ -36,7 +36,7 @@ My mission is to contribute my expertise and collaborative spirit to advance cyb
 ## Get in Touch
 
 - 📧 **Email:** [tiagoroberto2001@gmail.com](mailto:tiagoroberto2001@gmail.com)
-- 🌐 **LinkedIn:** [Your LinkedIn Profile](#)
+- 🌐 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tgroberto/)](#)
 
 ## Let's Collaborate for a Secure Future!
 
