@@ -13,8 +13,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Previous Jobs
 - 🍷 [Marketing Consultant @ Bacalhôa](#)
 - 🏢 [IT Consultant @ NOS](#)
-- 🌐 [Security Consultant at ABC Solutions](#)
-- 🔒 [Incident Responder at DEF CyberOps](#)
+- 🌐 [Operational planning and control manager @ VODAFONE](#)
 
 ## Projects
 
