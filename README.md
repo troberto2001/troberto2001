@@ -35,7 +35,7 @@ My mission is to contribute my expertise and collaborative spirit to advance cyb
 
 ## Get in Touch
 
-- 📧 **Email:** [your.email@example.com](mailto:tiagoroberto2001@gmail.com)
+- 📧 **Email:** [tiagoroberto2001@gmail.com](mailto:tiagoroberto2001@gmail.com)
 - 🌐 **LinkedIn:** [Your LinkedIn Profile](#)
 
 ## Let's Collaborate for a Secure Future!
