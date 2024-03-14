@@ -8,7 +8,6 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 
 - 🔒 [Cybersecurity Specialist Technician Course @ ATEC](#)
 - 🛡️ [Computer Systems Management and Programming Course @ ESPalmela](#)
-- 🔑 [Certified Ethical Hacker (CEH)](#)
 
 ## Previous Jobs
 - 🍷 [Marketing Consultant @ Bacalhôa](#)
@@ -19,13 +18,6 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 - 📚 [2FA on Ubuntu](https://drive.google.com/file/d/1_UiwdflyM9TvjS8tZ_BIfygs87xFGF5N/view?usp=sharing/)
 
 - 📚 [Installation of an open source SIEM (Wazuh) on an ubuntu machine and connectivity with Windows system](https://drive.google.com/file/d/1soeyo8CYvjOQDeJJcXHbE0N6x7ax2myT/view?usp=sharing)
-
-## Projects
-
-- 🚀 [Project 1: Project Name](#)
-  - *Description:* A cutting-edge cybersecurity solution that [brief description].
-- 🚀 [Project 2: Project Name](#)
-  - *Description:* [Brief description of the second project].
 
 ## Tools of the Trade
 
