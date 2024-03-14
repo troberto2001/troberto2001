@@ -10,7 +10,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 - 🛡️ [Computer Systems Management and Programming Course @ ESPalmela](#)
 
 ## Certifications
-- 🛡️ [Security Blue Team Digital Forensics](https://elearning.securityblue.team/home/certificate/231595927)
+- 🛡️ [Security Blue Team Digital Forensics](https://drive.google.com/file/d/1o_uTBDA25-XdiH-pYEmC9FmF7w-Ly5rT/view?usp=sharing)
 
 ## Previous Jobs
 - 🍷 [Marketing Consultant @ Bacalhôa](#)
