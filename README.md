@@ -18,7 +18,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Implementation Manuals
 - 📚 [2FA on Ubuntu](https://drive.google.com/file/d/1_UiwdflyM9TvjS8tZ_BIfygs87xFGF5N/view?usp=sharing/)
 
-- 📚 [Installation of an open source siem (Wazuh) on an ubuntu machine and connectivity with Windows system](https://drive.google.com/file/d/1soeyo8CYvjOQDeJJcXHbE0N6x7ax2myT/view?usp=sharing)
+- 📚 [Installation of an open source SIEM (Wazuh) on an ubuntu machine and connectivity with Windows system](https://drive.google.com/file/d/1soeyo8CYvjOQDeJJcXHbE0N6x7ax2myT/view?usp=sharing)
 
 ## Projects
 
