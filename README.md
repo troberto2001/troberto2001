@@ -4,10 +4,13 @@
 
 Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a passionate cybersecurity professional dedicated to securing digital landscapes and crafting robust solutions against evolving threats. With a solid foundation in the field, I'm thrilled to share my journey and contribute to the community and to the companies.
 
-## Certifications
+## Scholar Education
 
 - 🔒 [Cybersecurity Specialist Technician Course @ ATEC](#)
 - 🛡️ [Computer Systems Management and Programming Course @ ESPalmela](#)
+
+## Certifications
+- 🛡️ [Security Blue Team Digital Forensics](https://elearning.securityblue.team/home/certificate/231595927)
 
 ## Previous Jobs
 - 🍷 [Marketing Consultant @ Bacalhôa](#)
