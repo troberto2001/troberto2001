@@ -16,7 +16,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 - 🌐 [Operational planning and control manager @ VODAFONE](#)
 
 ## Implementation Manuals
-- 📚 [2FA on Ubuntu](#)(https://drive.google.com/file/d/1_UiwdflyM9TvjS8tZ_BIfygs87xFGF5N/view?usp=sharing)
+- 📚 [2FA on Ubuntu](https://drive.google.com/file/d/1_UiwdflyM9TvjS8tZ_BIfygs87xFGF5N/view?usp=sharing/)
 
 - 📚 [Installation of an open source siem (wazuh) on an ubuntu machine and connectivity with Windows system](#)(https://www.linkedin.com/in/tgroberto/)
 
