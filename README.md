@@ -12,6 +12,9 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Certifications
 - 🛡️ [Security Blue Team Digital Forensics](https://drive.google.com/file/d/1o_uTBDA25-XdiH-pYEmC9FmF7w-Ly5rT/view?usp=sharing)
 
+## Online Training Platforms
+- 🐱‍💻 [Try Hack Me Profile](https://tryhackme.com/p/troberto2001)
+
 ## Previous Jobs
 - 🍷 [Marketing Consultant @ Bacalhôa](#)
 - 🏢 [IT Consultant @ NOS](#)
