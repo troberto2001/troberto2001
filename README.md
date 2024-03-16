@@ -11,6 +11,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 
 ## Certifications
 - 🛡️ [Security Blue Team Digital Forensics](https://drive.google.com/file/d/1o_uTBDA25-XdiH-pYEmC9FmF7w-Ly5rT/view?usp=sharing)
+- 🛡️ [Security Blue Team Network Analysis](https://drive.google.com/file/d/1pNtj6QCvxRkoWRb1pjhe4Zdd3_QO90aE/view?usp=sharing)
 
 ## Known Technology Firewall and Systems
 - pFsense (Open Source)
