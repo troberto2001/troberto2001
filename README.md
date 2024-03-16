@@ -12,12 +12,17 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Certifications
 - 🛡️ [Security Blue Team Digital Forensics](https://drive.google.com/file/d/1o_uTBDA25-XdiH-pYEmC9FmF7w-Ly5rT/view?usp=sharing)
 
-## Known Technology
+## Known Technology Firewall and Systems
+- pFsense (Open Source)
+- RedHat
+- PaloAlto
+- Fortinet
+- Windows Server and services
 
--
--
--
--
+## Most used OS Technology (by me)
+- Kali Linux
+- Windows
+- Ubuntu
 
 ## Online Training Platforms
 - 🐱‍💻 [Try Hack Me Profile](https://tryhackme.com/p/troberto2001)
