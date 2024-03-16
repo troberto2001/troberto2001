@@ -12,10 +12,6 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Certifications
 - 🛡️ [Security Blue Team Digital Forensics](https://drive.google.com/file/d/1o_uTBDA25-XdiH-pYEmC9FmF7w-Ly5rT/view?usp=sharing)
 
-## Frameworks that i can work with
-- NIST Cybersecurity Framework
-- ISO 27001 and ISO 27002
-
 ## Known Technology Firewall and Systems
 - pFsense (Open Source)
 - RedHat
@@ -48,7 +44,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 - 🔨 **Firewall Configuration:** Proficient in configuring and managing firewalls.
 - 💻 **Penetration Testing:** Skilled in using tools like Metasploit and Burp Suite.
 - 🔐 **Encryption:** Experienced in implementing robust encryption protocols.
-- 🤖 **Frameworks** I am familiar with and capable of working with frameworks such as the NIST Cybersecurity Framework and ISO 27001/27002 standards, despite not holding formal certification in these areas. My proficiency lies in applying the principles and methodologies outlined in these frameworks to enhance cybersecurity measures and organizational security posture.
+- 🤖 **Frameworks:** I am familiar with and capable of working with frameworks such as the NIST Cybersecurity Framework and ISO 27001/27002 standards, despite not holding formal certification in these areas. My proficiency lies in applying the principles and methodologies outlined in these frameworks to enhance cybersecurity measures and organizational security posture.
 
 ## Objective
 
