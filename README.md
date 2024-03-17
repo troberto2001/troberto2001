@@ -40,6 +40,8 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 
 - 📚 🔥 [Installation of Exchange 2019 in a Windows Server 2022](https://drive.google.com/file/d/1F-8JNaF6gAEDlPQ8PAaCf66MzdOecueo/view?usp=sharing)
 
+- 📚 [Making a basic scan and reporting to a PDF file using NESSUS tool](https://drive.google.com/file/d/1tiy5tCtLQ4NNUG0ZeZhTlmammubTTm4i/view?usp=sharing)
+
 ## Tools of the Trade
 
 - 🔨 **Firewall Configuration:** Proficient in configuring and managing firewalls.
