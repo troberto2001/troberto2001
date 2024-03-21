@@ -48,7 +48,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 ## Tools of the Trade
 
 - 🔨 **Firewall Configuration:** Proficient in configuring and managing firewalls.
-- 💻 **Penetration Testing:** Skilled in using tools like Metasploit and Burp Suite.
+- 💻 **Penetration Testing:** Skilled in using tools like Metasploit, Burp Suite and Nessus
 - 🔐 **Encryption:** Experienced in implementing robust encryption protocols.
 - 🤖 **Frameworks:** I am familiar with and capable of working with frameworks such as the NIST Cybersecurity Framework and ISO 27001/27002 standards, despite not holding formal certification in these areas. My proficiency lies in applying the principles and methodologies outlined in these frameworks to enhance cybersecurity measures and organizational security posture.
 
