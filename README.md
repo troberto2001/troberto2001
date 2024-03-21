@@ -42,7 +42,7 @@ Hello, fellow cybersecurity enthusiasts and recruiters! I'm Tiago Roberto, a pas
 
 - 📚 [Making a basic scan and reporting to a PDF file using NESSUS tool](https://drive.google.com/file/d/1tiy5tCtLQ4NNUG0ZeZhTlmammubTTm4i/view?usp=sharing)
 
-- 📚 [Splunk - Windows Server 2022 integration 24/7 monitorization]([https://drive.google.com/file/d/1tiy5tCtLQ4NNUG0ZeZhTlmammubTTm4i/view?usp=sharing](https://drive.google.com/file/d/1NWYHX6tUoKWnHtXbdW4GD05s6nNbcrTc/view?usp=sharing))
+- 📚 [Splunk - Windows Server 2022 integration 24/7 monitorization]([https://drive.google.com/file/d/1tiy5tCtLQ4NNUG0ZeZhTlmammubTTm4i/view?usp=sharing](https://drive.google.com/file/d/1NWYHX6tUoKWnHtXbdW4GD05s6nNbcrTc/view?usp=sharing)
 
 
 ## Tools of the Trade
